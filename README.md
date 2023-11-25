@@ -15,12 +15,12 @@
 <p align="left">
 <a href="https://linkedin.com/in/zimmad arshad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zimmad arshad" height="30" width="40" /></a>
 </p>
-<h1 align="center">Features</h1>
-- Notification Snooze
-- Integration with Calendar
-- Notes and Descriptions
-- Date and Time Selection
-- Task Creation
+<h1 align="left">Features</h1>
+- Notification Snooze<br>
+- Integration with Calendar<br>
+- Notes and Descriptions<br>
+- Date and Time Selection<br>
+- Task Creation<br>
 - 📄 Know about my experiences [https://drive.google.com/file/d/1oxkIZn8WwrsH-yPNl6qGl0r5RGfd2eRe/view?usp=sharing](https://drive.google.com/file/d/1oxkIZn8WwrsH-yPNl6qGl0r5RGfd2eRe/view?usp=sharing)
 
 
