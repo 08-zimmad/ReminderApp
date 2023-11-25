@@ -1,4 +1,4 @@
-<h1 align="center">Reminder App</h1>
+<h1 align="center">Reminder App (Incomplete)</h1>
 <h3 align="center">Where you can put all your reminders</h3>
 
 - 🔭 I’m currently working on **reminder App**
