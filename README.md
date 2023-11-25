@@ -1,6 +1,5 @@
-# ReminderApp
-<h1 align="center">Hi 👋, I'm Zimmad Waraich</h1>
-<h3 align="center">A passionate web developer from Pakistan</h3>
+<h1 align="center">Reminder App</h1>
+<h3 align="center">Where you can put your reminders</h3>
 
 - 🔭 I’m currently working on **reminder App**
 
